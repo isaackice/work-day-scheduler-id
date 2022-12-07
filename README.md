@@ -10,7 +10,8 @@ This application is compatible with most devices so you can follow the link prov
 
 ## Link
 
-You can find the deployed application here
+You can find the deployed application here:
+https://isaackice.github.io/work-day-scheduler-id/
 
 ## Screenshot
 `
@@ -34,5 +35,5 @@ JQuery
 
 ## License
 
-MIT License
+MIT License //
 Refer to repository
